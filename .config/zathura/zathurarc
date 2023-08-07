@@ -5,6 +5,9 @@ set incremental-search
 set database plain
 set recolor-keephue true
 
+map D set "first-page-column 1:1"
+map <C-D> set "first-page-column 1:2"
+
 # ==============================================================================
 # Theme
 # ==============================================================================
